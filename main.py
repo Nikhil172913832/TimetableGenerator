@@ -8,7 +8,6 @@ def main():
         Batch(batch_id="Batch1", size=30, subjects=["Math", "Science", "English"]),
         Batch(batch_id="Batch2", size=25, subjects=["Math", "History", "Geography"]),
         Batch(batch_id="Batch3", size=20, subjects=["Science", "English", "Art"]),
-        # Add more batches as needed
     ]
 
    
