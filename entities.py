@@ -67,7 +67,6 @@ class Timetable:
                 return False
         return True
 
-    
     def calculate_fitness(self):
         penalty = self.check_hard_constraints()
         self.fitness = -penalty 
